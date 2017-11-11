@@ -1,4 +1,4 @@
-import React, { CSSProperties } from 'react';
+import * as React, { CSSProperties } from 'react';
 import Prefixer from 'inline-style-prefixer';
 
 export type Size = string | number;
